@@ -1,0 +1,23 @@
+# FastAPI and Uvicorn (ASGI Server)
+fastapi
+uvicorn[standard]
+
+# Database (SQLAlchemy ORM & MySQL Connector)
+SQLAlchemy
+pymysql
+
+# Environment Variables
+python-dotenv
+
+# Security & Authentication
+bcrypt
+passlib[bcrypt]
+PyJWT
+
+# Validation & Serialization
+pydantic
+email-validator
+
+# Reverse Proxy & CORS
+gunicorn
+python-multipart  # For handling form-data uploads
