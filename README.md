@@ -51,6 +51,3 @@ The application uses Python's logging module to log information, warnings, error
 - `bcrypt`
 - `python-dotenv`
 - `jose`
-
-## License
-This project is licensed under the MIT License.
